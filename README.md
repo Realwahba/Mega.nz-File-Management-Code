@@ -35,24 +35,30 @@ The following commands are available to perform various MEGA storage operations:
 | `list`                        | Lists all files and folders                          |
 | `delete <itemName>`           | Deletes a file or folder from MEGA by name           |
 | `share <itemName>`            | Generates a public link for a file or folder         |
+
 __🎬 Examples__
 1. Uploading a File
+
 ```node index.js upload /path/to/yourfile.jpg```
 Uploads yourfile.jpg to MEGA and returns a link upon success.
 
 2. Downloading a File
+
 ```node index.js download https://mega.nz/filelink /path/to/save/location```
 Downloads the specified MEGA file to your local path.
 
 3. Listing Files and Folders
+
 ```node index.js list```
 Displays a complete list of all items in your MEGA account storage.
 
 4. Deleting a File or Folder
+
 ```node index.js delete filename.jpg```
 Deletes filename.jpg from your MEGA storage.
 
 5. Sharing a Folder or File
+
 ```node index.js share myFolder```
 Generates a shareable link for myFolder.
 
