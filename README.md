@@ -1,4 +1,5 @@
 __📂 MEGA-CLI: Command-Line File Manager for MEGA.nz__ 
+
 Welcome to MEGA-CLI! This powerful and intuitive command-line tool lets you effortlessly manage your MEGA.nz cloud storage without leaving your terminal. Upload, download, list, delete, and share files like a pro – all with simple commands! 🚀
 
 🌟 Features
@@ -12,6 +13,7 @@ __📜 Prerequisites__
 Before you dive in, make sure you have:
 
 Node.js (>= 12.x) – [Download here.](https://nodejs.org/en)
+
 A MEGA.nz Account – [Sign up here.](https://mega.nz/)
 
 __🚀 Installation__
