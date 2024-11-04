@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mega": "^0.2.0",
+    "megajs": "^1.3.3"
+  }
+}
