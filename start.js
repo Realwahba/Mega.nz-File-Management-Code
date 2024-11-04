@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 const email = 'Email';
-const password = 'Password of account';
+const password = 'Password';
 
 const storage = new mega.Storage({ email, password });
 
