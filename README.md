@@ -18,10 +18,13 @@ A MEGA.nz Account – [Sign up here.](https://mega.nz/)
 
 __🚀 Installation__
 1. Clone this repository:
+
 ```git clone https://github.com/yourusername/mega-cli.git cd mega-cli ```
+
 2. Install dependencies:
 ```npm install```
-3Add your MEGA account credentials:
+3. Add your MEGA account credentials:
+
 Open the script and replace email and password placeholders with your MEGA account email and password.
 __🧩 Usage__
 The following commands are available to perform various MEGA storage operations:
